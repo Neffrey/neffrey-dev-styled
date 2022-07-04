@@ -18,6 +18,7 @@
 # misc
 .DS_Store
 *.pem
+/.vs
 
 # debug
 npm-debug.log*
@@ -33,6 +34,7 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
 
 # Chakra Files
 /components-Chakra
